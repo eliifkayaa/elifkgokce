@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elif</h1>
 <h3 align="center">Frontend Developer</h3>
-<img src="https://media.giphy.com/media/3oz8xSFr4Uw7d3K0JW/source.gif" align="right" width="400">
+<img src="https://media.giphy.com/media/3oz8xSFr4Uw7d3K0JW/source.gif" align="top" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eliifkayaa&label=Profile%20views&color=0e75b6&style=flat" alt="eliifkayaa" /> </p>
 
